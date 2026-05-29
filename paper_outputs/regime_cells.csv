@@ -1,0 +1,41 @@
+zone,model,cell,n,price_mean,price_std,sMAPE,RMSE
+NO1,Lags+Calendar,High res / High TTF,3071,62.572,37.657,9.762,12.538
+NO1,Full LightGBM,High res / High TTF,3071,62.572,37.657,9.817,12.940
+NO1,Lags+Calendar,High res / Low TTF,1464,69.062,33.198,7.798,8.995
+NO1,Full LightGBM,High res / Low TTF,1464,69.062,33.198,7.900,9.219
+NO1,Lags+Calendar,Low res  / High TTF,1320,47.396,23.107,24.923,10.061
+NO1,Full LightGBM,Low res  / High TTF,1320,47.396,23.107,25.088,10.192
+NO1,Lags+Calendar,Low res  / Low TTF,2881,53.234,27.600,19.367,9.415
+NO1,Full LightGBM,Low res  / Low TTF,2881,53.234,27.600,19.783,9.483
+NO2,Lags+Calendar,High res / High TTF,3791,64.165,36.754,10.801,12.453
+NO2,Full LightGBM,High res / High TTF,3791,64.165,36.754,10.622,12.702
+NO2,Lags+Calendar,High res / Low TTF,744,58.029,22.264,14.117,7.746
+NO2,Full LightGBM,High res / Low TTF,744,58.029,22.264,14.178,7.923
+NO2,Lags+Calendar,Low res  / High TTF,600,63.718,23.511,17.754,8.365
+NO2,Full LightGBM,Low res  / High TTF,600,63.718,23.511,17.470,8.628
+NO2,Lags+Calendar,Low res  / Low TTF,3601,68.371,29.325,12.378,8.930
+NO2,Full LightGBM,Low res  / Low TTF,3601,68.371,29.325,12.696,9.135
+NO3,Lags+Calendar,High res / High TTF,3719,18.130,23.551,25.735,7.298
+NO3,Full LightGBM,High res / High TTF,3719,18.130,23.551,25.220,7.283
+NO3,Lags+Calendar,High res / Low TTF,744,16.875,18.365,30.254,4.182
+NO3,Full LightGBM,High res / Low TTF,744,16.875,18.365,30.721,4.224
+NO3,Lags+Calendar,Low res  / High TTF,672,10.390,10.395,36.031,4.452
+NO3,Full LightGBM,Low res  / High TTF,672,10.390,10.395,35.029,4.474
+NO3,Lags+Calendar,Low res  / Low TTF,3601,26.798,25.406,17.446,5.288
+NO3,Full LightGBM,Low res  / Low TTF,3601,26.798,25.406,17.631,5.407
+NO4,Lags+Calendar,High res / High TTF,3431,5.725,13.530,28.278,5.513
+NO4,Full LightGBM,High res / High TTF,3431,5.725,13.530,28.550,5.599
+NO4,Lags+Calendar,High res / Low TTF,1008,3.119,4.931,27.475,1.741
+NO4,Full LightGBM,High res / Low TTF,1008,3.119,4.931,28.356,1.698
+NO4,Lags+Calendar,Low res  / High TTF,960,5.430,5.988,25.578,2.497
+NO4,Full LightGBM,Low res  / High TTF,960,5.430,5.988,24.931,2.515
+NO4,Lags+Calendar,Low res  / Low TTF,3337,14.069,25.121,20.617,4.883
+NO4,Full LightGBM,Low res  / Low TTF,3337,14.069,25.121,20.974,4.974
+NO5,Lags+Calendar,High res / High TTF,3527,49.158,28.298,9.186,10.393
+NO5,Full LightGBM,High res / High TTF,3527,49.158,28.298,9.462,10.714
+NO5,Lags+Calendar,High res / Low TTF,1008,46.351,18.633,8.981,5.387
+NO5,Full LightGBM,High res / Low TTF,1008,46.351,18.633,9.538,5.551
+NO5,Lags+Calendar,Low res  / High TTF,864,28.917,17.070,17.908,4.788
+NO5,Full LightGBM,Low res  / High TTF,864,28.917,17.070,18.270,4.746
+NO5,Lags+Calendar,Low res  / Low TTF,3337,49.203,31.563,13.366,6.905
+NO5,Full LightGBM,Low res  / Low TTF,3337,49.203,31.563,13.956,7.061

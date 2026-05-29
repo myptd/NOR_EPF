@@ -1,0 +1,16 @@
+openmeteo-requests
+requests-cache
+retry-requests
+pandas
+numpy
+yfinance
+entsoe-py
+pyarrow
+xgboost
+scikit-learn
+torch
+torchvision
+matplotlib
+statsmodels
+scipy
+joblib

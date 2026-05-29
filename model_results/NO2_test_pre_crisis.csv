@@ -1,0 +1,2 @@
+model,MAE,RMSE,sMAPE,R2,zone
+LightGBM,6.069,11.797,13.15,0.8649,NO2

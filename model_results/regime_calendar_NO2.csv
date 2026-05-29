@@ -1,0 +1,9 @@
+label,n,price_mean,price_std,sMAPE,RMSE,bias,cell,zone
+Lags+Calendar,3791,64.165,36.754,10.801,12.453,0.389,High res / High TTF,NO2
+Full LightGBM,3791,64.165,36.754,10.622,12.702,0.403,High res / High TTF,NO2
+Lags+Calendar,744,58.029,22.264,14.117,7.746,-0.057,High res / Low TTF,NO2
+Full LightGBM,744,58.029,22.264,14.178,7.923,-0.523,High res / Low TTF,NO2
+Lags+Calendar,600,63.718,23.511,17.754,8.365,-0.352,Low res  / High TTF,NO2
+Full LightGBM,600,63.718,23.511,17.47,8.628,-0.734,Low res  / High TTF,NO2
+Lags+Calendar,3601,68.371,29.325,12.378,8.93,0.055,Low res  / Low TTF,NO2
+Full LightGBM,3601,68.371,29.325,12.696,9.135,0.296,Low res  / Low TTF,NO2

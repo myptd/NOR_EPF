@@ -1,0 +1,80 @@
+[
+  {
+    "land": [
+      {
+        "navn": "Norge",
+        "navn_langt": "Norge",
+        "beskrivelse": "Hele landet",
+        "omrType": "NO",
+        "omrnr": 0
+      }
+    ],
+    "elspot": [
+      {
+        "navn": "NO 1",
+        "navn_langt": "Elspotområde 1",
+        "beskrivelse": "Øst-Norge. Omfatter østlige del av Østlandet fra Buskerud og nordover (bortsett fra den del av Innlandet som ligger vest og nord for Vågåmo). Består av NVE-område 1.",
+        "omrType": "EL",
+        "omrnr": 1
+      },
+      {
+        "navn": "NO 2",
+        "navn_langt": "Elspotområde 2",
+        "beskrivelse": "Sørvest-Norge. Omfatter mesteparten av Vestfold, Telemark, Agder, Rogaland og sørlige del av Vestland. Består av NVE-områdene 3, 4 og 5.",
+        "omrType": "EL",
+        "omrnr": 2
+      },
+      {
+        "navn": "NO 3",
+        "navn_langt": "Elspotområde 3",
+        "beskrivelse": "Midt-Norge. Omfatter nordre og vestlige del av Vestland, den del av Innlandet som ligger vest og nord for Vågåmo, Møre og Romsdal og Trøndelag til Tunnsjødal. Består av NVE-områdene 8, 9 og 13.",
+        "omrType": "EL",
+        "omrnr": 3
+      },
+      {
+        "navn": "NO 4",
+        "navn_langt": "Elspotområde 4",
+        "beskrivelse": "Nord-Norge. Omfatter resten av Trøndelag og Nord-Norge. Består av NVE-områdene 10, 11 og 12.",
+        "omrType": "EL",
+        "omrnr": 4
+      },
+      {
+        "navn": "NO 5",
+        "navn_langt": "Elspotområde 5",
+        "beskrivelse": "Vest-Norge. Omfatter midtre del av Vestland opp til Sognefjorden og Indre Sogn, og vestlig del av Buskerud. Består av NVE-områdene 2, 6 og 7.",
+        "omrType": "EL",
+        "omrnr": 5
+      }
+    ],
+    "vassdrag": [
+      {
+        "navn": "VASS1",
+        "navn_langt": "Vassdragsområde 1",
+        "beskrivelse": "Sørøst-Norge. Østlandet, Agder og deler av Rogaland.",
+        "omrType": "VASS",
+        "omrnr": 1
+      },
+      {
+        "navn": "VASS2",
+        "navn_langt": "Vassdragsområde 2",
+        "beskrivelse": "Vest-Norge. Resten av Rogaland og Vestland.",
+        "omrType": "VASS",
+        "omrnr": 2
+      },
+      {
+        "navn": "VASS3",
+        "navn_langt": "Vassdragsområde 3",
+        "beskrivelse": "Midt-Norge. Møre og Romsdal, Trøndelag og sørlige Nordland",
+        "omrType": "VASS",
+        "omrnr": 3
+      },
+      {
+        "navn": "VASS4",
+        "navn_langt": "Vassdragsområde 4",
+        "beskrivelse": "Nord-Norge. Resten av Nordland og nordover.",
+        "omrType": "VASS",
+        "omrnr": 4
+      }
+    ]
+  }
+]

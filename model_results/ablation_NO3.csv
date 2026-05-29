@@ -1,0 +1,14 @@
+experiment,groups_used,MAE,RMSE,R2,delta_MAE
+full_model,all,3.047,6.139,0.9335,0.0
+drop_lags,all minus lags,23.342,27.627,-0.3469,20.295
+drop_calendar,all minus calendar,3.137,6.356,0.9287,0.09
+drop_weather,all minus weather,3.006,6.068,0.935,-0.041
+drop_reservoir,all minus reservoir,3.022,6.118,0.9339,-0.025
+drop_commodities,all minus commodities,3.02,6.146,0.9333,-0.027
+drop_load_wsf,all minus load_wsf,3.008,6.118,0.934,-0.039
+only_lags,lags,3.08,6.338,0.9291,0.033
+only_calendar,lags + calendar,2.989,6.101,0.9343,-0.058
+only_weather,lags + weather,3.081,6.329,0.9293,0.034
+only_reservoir,lags + reservoir,3.131,6.46,0.9264,0.084
+only_commodities,lags + commodities,3.104,6.36,0.9286,0.057
+only_load_wsf,lags + load_wsf,3.067,6.294,0.9301,0.02

@@ -1,0 +1,5 @@
+label,n,price_mean,price_std,sMAPE,RMSE,bias,cell
+LightGBM,3719,18.13,23.551,25.22,7.283,-0.011,High res / High TTF
+LightGBM,744,16.875,18.365,30.721,4.224,-0.188,High res / Low TTF
+LightGBM,672,10.39,10.395,35.029,4.474,-0.308,Low res  / High TTF
+LightGBM,3601,26.798,25.406,17.631,5.407,0.231,Low res  / Low TTF

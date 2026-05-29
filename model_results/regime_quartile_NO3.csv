@@ -1,0 +1,4 @@
+label,n,price_mean,price_std,sMAPE,RMSE,bias,quartile,res_anom_mean
+LightGBM,2184,14.875,12.914,26.887,4.701,-0.108,Q1 res (≤0.09),0.076
+LightGBM,6385,21.411,22.827,20.835,5.245,0.05,Q3 res (0–0.23),0.116
+LightGBM,2351,19.887,26.248,30.056,8.084,0.053,Q4 res (≥0.23),0.246
